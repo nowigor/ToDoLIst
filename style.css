@@ -3,3 +3,31 @@ body{
     margin: 0px;
     background-color: rgb(240, 229, 229);
 }
+.add-wrapper
+{
+    width: 600px;
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10px;
+   
+}
+.box
+{
+    margin-bottom: 10px;
+}
+.wrapper
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.result
+{
+    width: 600px;
+    height: 400px;
+    border: 1px solid gray;
+}

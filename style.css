@@ -39,3 +39,9 @@ body{
 {
     font-size: 22px;
 }
+.single-item-clicked
+{
+    font-size: 22px;
+    text-decoration: line-through;
+    color: rgba(0, 0, 0, 0.521);
+}
